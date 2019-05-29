@@ -1,4 +1,4 @@
-# Plataforma de ventas en línea
+# Nueva Plataforma E-commerce
 
 ## Preámbulo
 
@@ -15,270 +15,184 @@ más por un producto y el productor o fabricante, que se ve presionado a vender
 más barato para que su producto llegue al consumidor a un precio asequible y que
 todos puedan beneficiarse en el camino.
 
-## Introducción
+# Fabi - Importaciones
 
-### “Nuevo portal de e-commerce”
+* ¿Quiénes dirigen esta empresa? 
 
-Existen pequeñas empresas (emprendimientos) que comercializan productos y 
-servicios reduciendo la cantidad de intermediarios. En este proyecto, tienes que
-asesorar a un emprendimiento a crear un portal desde donde los clientes compren
-sus productos o servicios. Algunos de los emprendimientos con los cuales puedes trabajar son:
+Esta empresa está dirigida por dos hermanas y socias, quienes son:
 
-- [Cocina Abierta](https://instagram.com/cocinaabierta.pe)
-- [Sweet little Neia](https://www.facebook.com/sweetlittleneia)
-- [Andi the coach](https://andithecoach.com)
-- [The Planning Co.](https://www.facebook.com/theplanningco/)
-- [Talleres De Arte TFA](https://www.instagram.com/tallerdeartetfa/)
-- [Sweet peach](https://www.facebook.com/sweet.peach.peru/)
-- [Le Pastel Bakery](https://www.instagram.com/lepastelbakery/)
-- [Delivery Fruta La Grande](https://www.facebook.com/Delivery-Fruta-La-Grande-143207576316285/)
+        - Joselyn Zulma Fabián Fabián  
+        - Leslie Fabián Fabián 
 
-Luego de definir con qué miembro trabajarás, debes ayudar a ese emprendimiento
-a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos o servicios a los consumidores. Queremos que averigües cómo
-son los clientes que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
+* ¿Cómo se originó esta empresa? 
 
-Una vez realizada la investigación debes formular una propuesta de valor. Esto
-quiere decir que debes pensar cómo este portal va a comunicar sus beneficios a
-los usuarios y cómo va a vender sus productos. Para que guíes a la empresa que
-elijas a entender tu visión, esperan que les hagas una propuesta de cómo podría
-ser el portal donde las personas puedan buscar, ver, elegir y comprar sus
-productos.
+Hace 4 años Joselyn y Leslie empezaron a darle mas interés a cuidar su imagen personal, por lo que deciden empezar a importar cremas para el cuidado de la piel por docena ya que el precio era accesible, al notar que no usarían las qe cremas empiezan a ofrecerlas a sus amigas y familiriares cercanos, al terminar esta primera venta y darse cuenta que habían recuperado su capital y tenían una ganancia, empiezan a importar más productos por cantidades más grandes, al empezar a tener más clientas deciden abrir una página en facebook y ofertar por ahí sus productos. Ellas escogieron un diminutivo de su apellido como nombre ideal para su empresa.
 
-## Objetivos de aprendizaje
+![logo](https://user-images.githubusercontent.com/47748854/58032217-c43ee100-7ae7-11e9-82e8-66112ee1d662.jpg)
 
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
+* ¿Qué es Fabi Importaciones? 
 
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
+Es una empresa del rubro de distribución de cosméticos y accesorios que cuenta con una página de Facebook consolidada desde hace más de 4 años, esta empresa se dedica a la importación de productos de procedencia China y Americana.
 
-## Tópicos a cubrir
+* ¿Qué productos ofrecen?
 
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
+Tienen una gran variedad de productos que han sido clasificadas en las siguientes categorías.
 
-## Consideraciones generales
+|   I. Maquillaje:
 
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
+            - Sombras
+            - Cabello
+            - Facial
+            - Labiales
+            - Uñas 
+            - Perfumes
 
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
+    II. Accesorios:
 
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
+            - Carteras
+            - Billeteras
+            - Portalabiales
 
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
+    III. Ropa y Lencería:
 
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
+            - Lencería 
+            - Medias con diseño
+            - Vestimenta
 
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
+    IV. Hogar y Escritorio:
 
-## Parte Obligatoria
+            - Mascotas
+            - Hogar
+            - Escolar
 
-### 1) General
+    V. Calzado:
 
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Puedes usar Google Drive para guardar toda esta
-documentación y luego linkear las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
+            - Pantuflas
+            - Zapatos
+            - Zapatillas
 
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
 
-### 2) Entendimiento del problema
-
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
-
-### 3) Planteamiento y validación de la solución
-
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
+# Proceso del proyecto
 
 ## Implementación
 
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-cómo es que distribuirás estos puntos en estas actividades.
-El coach te dará el ok para que puedas empezar.
+Para poder realizar este proyecto escogimos las siguientes herramientas:
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
 |Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
 |Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
 |Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
 |Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
 |Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 
-## Entrega
+## Desarrollo
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+![imagen 1 drwe](https://user-images.githubusercontent.com/47748854/58443156-ddcac480-80b5-11e9-98fd-1107307e5e02.png)
 
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
+### 1) Descubrimiento e Ideación
 
-Un video en [Loom](https://www.useloom.com/) de máximo 7 minutos explicando tu documento.
-* Estos 7 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
+#### A) Entrevistas
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
+##### A.1.- Entrevista con la CLienta
 
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
+Al conversar con Joselyn pudimos conocer más acerca de su empresa, el manejo de los productos, el procedimiento para captar clientes y generar fidelización en ellos. Uno de sus métodos y en el cuál ellas han sido pioneras a nivel de Perú ya que fueron las primeras en hacerlo, son sus transmisiones en vivo donde ellas muestran, prueban sus productos y ofrecen ofertas de sus prodcutos a precios muy económicos durante 24 horas después de terminada la transmisión.
 
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
-
-### 2) Definición del producto
-
-Al definir el producto recuerda pensar en:
-
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
-
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
-
-### 4) HTML, CSS y JS
-Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarrolla **una vista como mínimo** (aparte del login)
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
+![aafaefregth](https://user-images.githubusercontent.com/47748854/58465501-75073a80-80fd-11e9-81b1-1ae41d058b88.png)
 
 
-## Hacker edition
+Pudimos también identificar los objetivos principales a trabajar en este proyecto según las necesidades de nuestra clienta y son los siguientes:
+ 
+        - Categorizar los productos de manera clara y sencilla para el usuario.
+        - Optimizar el tiempo de respuesta a las consultas de los usuarios.
+        - Mejorar el flujo de compra de los clientes.
 
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
+##### A.2.- Entrevistas a usuarias
 
-- Escribe un post en Medium contando tu proceso de investigación
+##### A.2.1.- Con usuarias
+
+Hicimos entrevistas por medio de llamadas vía WhatsApp con 4 usuarias de la empresa de estas pudimos sacar las siguientes conclusiones.
+
+* Ventajas:
+
+    - Transmisiones en vivo.
+    - Precios económicos.
+    - Productos de calidad.
+    - Seguridad con la emisión de boletas.
+
+* Desventajas:
+
+    - Demora al recibir una respuesta por whatsapp o facebook, lo que hace que no logren alcanzar una oferta. 
+    - No tener una actualización del stock de productos.
+    - No tener un sistema de pago que acepte todos los tipos de tarjetas.
+
+##### A.2.2- Con posibles usuarias
+
+Realizamos una encuesta a posibles usuarias del servicio, pudimos rescatar los siguientes puntos:
+
+* Preferencias:
+
+    - Prefieren comprar en épocas de ofertas.
+    - Consideran importante el cuidado persoonal.
+    - La buena atención al cliente hace que se fidelicen.
+
+* Desventajas:
+
+    - Tienen desconfianza de hacer su primera compra vía web y que no lleguen los productos en estado óptimo.
+
+A continuación dejamos el link donde pueden encontrar los audios completos de las entrevistas e información detallada de la encuesta.
+
+https://drive.google.com/drive/folders/1kP9Y-byu3hr1wcyNA58GTnNpvXTN2XD1
+
+### 2) Síntesis y Definición
+
+#### A) Affinity Diagram
+
+En base a las entrevistas que tuvimos rescatamos palabras y frases claves las cuales colocamos en  post-its, cada color representa a una usuaria, este nos permitió llegar a coincidencias tanto en preferencias, cosas por mejorar y desventajas de la empresa.
+
+
+![sfbvfgbhgf](https://user-images.githubusercontent.com/47748854/58541421-1905ea00-81c1-11e9-8db0-c4894fd59c76.png)
+
+#### B) User Person:
+
+En base a las coincidencias anteriormente detectadas en nuestro Affinity Diagram pudimos crear dos users person, los cuales se amoldan a los dos tipos de clientes principales de esta empresa.
+
+##### B.1.- User Person Primary: 
+
+Cliente Mayorista
+
+![user1](https://user-images.githubusercontent.com/47748854/58542193-b6ade900-81c2-11e9-9d69-9550c513e8df.png)
+
+##### B.1.- User Person Secondary: 
+
+Cliente Minorista
+
+![user2](https://user-images.githubusercontent.com/47748854/58542989-296b9400-81c4-11e9-9a64-5cae0f531c2f.png)
+
+#### C) Customer Journey Map
+
+Con esta herramienta realizamos el flujo de como nuestra usuaria principal sigue un flujo de compra mediante una transmisión en vivo. Esto nos permitió encontrar el problema principal:
+
+![customer](https://user-images.githubusercontent.com/47748854/58546935-0e048700-81cc-11e9-89fa-dc8ad6685aed.png)
+
+
+En el siguiente link pueden encontrar el mapa completo.
+
+https://docs.google.com/document/d/1mtRgI8aZMspytc7_3Ta7a3s61zLhu4NSDyU6uGAIkW0/edit
+
+
+Gracias a esta herramienta pudimos plantear algunos Problems Statements, de los cuales el principal fue este:
+
+"CAROLINA *NECESITA* QUE CONTESTEN SU MENSAJE DENTRO DE LAS 24 HORAS DE OFERTA *PARA* ADQUIRIR LOS PRODUCTOS AL PRECIO DE LAS TRANSMISIÓN EN VIVO" 
+
+Para poder visualizar el resto de Problems Statements entre al siguiente link.
+
+https://docs.google.com/document/d/10x4tn8PoZ1iWr30mXDfuHuEjyw4Z9tc-ykq1OtY23C4/edit
+
+### 3) Ideación
+
+
+
+
