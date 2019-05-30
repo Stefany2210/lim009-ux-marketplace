@@ -185,7 +185,7 @@ https://docs.google.com/document/d/1mtRgI8aZMspytc7_3Ta7a3s61zLhu4NSDyU6uGAIkW0/
 
 Gracias a esta herramienta pudimos plantear algunos Problems Statements, de los cuales el principal fue este:
 
-"CAROLINA *NECESITA* QUE CONTESTEN SU MENSAJE DENTRO DE LAS 24 HORAS DE OFERTA *PARA* ADQUIRIR LOS PRODUCTOS AL PRECIO DE LAS TRANSMISIÓN EN VIVO" 
+"CAROLINA *NECESITA* QUE CONTESTEN SU MENSAJE DENTRO DE LAS 24 HORAS DE OFERTA *PARA* ADQUIRIR LOS PRODUCTOS AL PRECIO DE LA TRANSMISIÓN EN VIVO" 
 
 Para poder visualizar el resto de Problems Statements entre al siguiente link.
 
@@ -193,6 +193,71 @@ https://docs.google.com/document/d/10x4tn8PoZ1iWr30mXDfuHuEjyw4Z9tc-ykq1OtY23C4/
 
 ### 3) Ideación
 
+#### A) Sketches
 
+En base a toda la información que obtuvimos, empezamos a hacer prototipos en papel, después de intentar muchos obtuvimos nuestro primer prototipo de baja final:
 
+![stek](https://user-images.githubusercontent.com/47748854/58593941-f8c24380-8231-11e9-87dc-a27153518799.png)
+
+Para llegar a este prototipo final hicimos benchmarking, esto nos ayudar a llegar a un prototipo que pueda lograr resolver cada objetiv que planteamos en un inicio.
+
+El prototipo completo lo puede encontrar en el siguiente link:
+
+https://wireframepro.mockflow.com/editor.jsp?editor=off&publicid=Mbe74eeb43214137689a7a299bd4cdae21559166380767&projectid=M634c6f998a68b706454afca3042ce4a61529282545953&perm=Reviewer#/page/8ef1d2696b8e4749842a74ad0a25daf3
+
+### 4) Prototipado
+
+Después de un testeo de nuestro prototipo de baja fidelidad, pudimos hacer unas mejoras y el primer prototipo final en figma que obtuvimos fue el siguiente:
+
+![maquillaje](https://user-images.githubusercontent.com/47748854/58600273-8f4e2f00-8249-11e9-9019-96a62fbb3ead.png)
+
+### 5) User Testing
+
+Con nuestro prototipo ya en figma, nosdirigimos a la tienda física de Fabi-Importaciones.
+
+![TESTEO](https://user-images.githubusercontent.com/47748854/58600444-42b72380-824a-11e9-9afd-5a98066338db.png)
+
+Para ver la galería de fotos y videos, ingrese al siguiente link.
+
+https://drive.google.com/drive/folders/1ItchPJvQt3Mg60iPZcezqJQgyk_l7NPf
+
+# PROTOTIPO FINAL 
+
+Después de realizar el testeo de nuestro primer prototipo hicimos ajustes y cambios que nos guiaron a nuestro objetivo principal el cuál es cumplir con las espectativas tanto de las usuarias como de nuestra cliente.
+
+1. En la parte del banner quisimos resaltar sus transmisiones en vivo ya que es el plus que esta empresa ofrece.
+Seguido podemos ver un menú donde se encuentran las categorías.
+Luego tenemos un slider que mostratá las ofertas más compradas.
+Seguido de un contador de horas que quedan para que termine la oferta.
+
+![fabi4](https://user-images.githubusercontent.com/47748854/58603386-2caf6000-8256-11e9-9ab3-123b88ca2b0d.png)
+
+2. Creamos un Login para que las usuarias puedan tener contacto directo con el monitoreo de sus boletas electrónicas y envíos de sus prodcutos.
+
+![fabi 5](https://user-images.githubusercontent.com/47748854/58603479-89127f80-8256-11e9-8998-62eac554d78b.png)
+
+3. Categorizamos los productos en categorías y sub categorías.
+En esta vista agregamos también la sección de ofertas por cada categoría, cada imagen cuenta con una breve descripción, una imagen del producto, el precio al por menor y por mayor, el nombre y un cuadro con el porcentaje del descuento.
+
+![fab1](https://user-images.githubusercontent.com/47748854/58602646-531fcc00-8253-11e9-98bb-26433d9f40d1.png)
+
+4. Al crear esta página web ya los clientes no esperan respuesta alguna de parte de la empresa porque ellas pueden realizar la compra por si mismas. 
+
+![fabi 2](https://user-images.githubusercontent.com/47748854/58603060-e9082680-8254-11e9-850e-45888b7201a6.png)
+
+5. Hicimos el flujo de compra bastante sencillo y entendible, sobre todo al momento de escoger un producto.
+
+![fabi3](https://user-images.githubusercontent.com/47748854/58603135-37b5c080-8255-11e9-8959-e48521275bbc.png)
+
+6. En la parte del footer el usuario podrá encontrar información de la empresa y una sección para cambios de productos, consultas y reclamos.
+
+![fabi566](https://user-images.githubusercontent.com/47748854/58603582-f0303400-8256-11e9-9aa6-9cb71bd830c8.png)
+
+Para visualizar el prototipo completo ingrese al siguiente link.
+
+https://www.figma.com/file/LBo4qOLez9eGvxf1oTnBrAx3/Prototipo-Fabi?node-id=0%3A1
+
+### Puede ver una presentación del proyecto en el siguiente link 
+
+https://www.loom.com/share/9935bd492674475287e6ce398cdbbe8e
 
